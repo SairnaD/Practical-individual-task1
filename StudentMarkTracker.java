@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class StudentMarkTracker {
 
     private static final int PASS_MARK = 60;
@@ -7,9 +5,9 @@ public class StudentMarkTracker {
 
     private static final int[][] STUDENT_MARKS = {
             {85, 90, 78},
-            {47,56,60},
+            {47,56,60, 67},
             {98,94,93},
-            {66,72,69}
+            {66,72,69, 73, 71}
     };
 
     public static void main(String[] args) {
